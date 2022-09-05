@@ -1,7 +1,7 @@
 # Project: Recipes
 
 Foundations Course by [The Odin Project](https://www.theodinproject.com/dashboard) <br>
-Coded by Neonita (MBG) <br>
+Coded by [Neonita (MBG)](https://github.com/neonita) <br>
 [Live site](https://neonita.github.io/odin-recipes/index.html)
 
 <hr>
