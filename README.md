@@ -1,18 +1,19 @@
 # Project: Recipes
 
-Foundations Course by The Odin Project
-Coded by Neonita (MBG)
+Foundations Course by The Odin Project <br>
+Coded by Neonita (MBG) <br>
+[Live site](https://neonita.github.io/odin-recipes/index.html)
 
 <hr>
 
 <u>HTML Foundations</u>
 Construct HTML structure of webpage. The website will consist a main index page which will have links to a few recipes.
 
-This will cover:
-☑️ Elements/Tags (links, images, paragraphs, etc.)
-☑️ HTML Boilerplate
-☑️ Lists
-☑️ Commit Messages
+This will cover:<br>
+☑️ Elements/Tags (links, images, paragraphs, etc.) <br>
+☑️ HTML Boilerplate <br>
+☑️ Lists <br>
+☑️ Commit Messages <br>
 
 <small>04/09/2022</small>
 
