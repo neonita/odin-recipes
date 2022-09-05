@@ -6,7 +6,8 @@ Coded by Neonita (MBG) <br>
 
 <hr>
 
-<u>HTML Foundations</u>
+**HTML Foundations**
+<br>
 Construct HTML structure of webpage. The website will consist a main index page which will have links to a few recipes.
 
 This will cover:<br>
