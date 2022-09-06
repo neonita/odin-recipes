@@ -1,24 +1,77 @@
-.heading {
-  border: 1px solid red;
+.heading,
+.recipe {
+  /* border: 1px solid red; */
 
   font-family: Helvetica, sans-serif;
   font-weight: 100;
+  margin-bottom: 2rem;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 100;
+  font-family: Garamond, "Times New Roman", serif;
+  font-style: italic;
 }
 
 .heading__title {
-  font-family: Garamond, "Times New Roman", serif;
   font-weight: 100;
   letter-spacing: -24px;
   font-size: 12rem;
-  font-style: italic;
   margin-top: 0;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.2rem;
 }
 
 .heading__link {
+  display: block;
+  color: black;
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: 100;
+  text-align: right;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 .heading__link:hover {
   font-style: italic;
   color: rgb(255, 145, 98);
+}
+
+.heading__box {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading__description {
+  display: inline-block;
+  width: 60%;
+}
+
+.heading__description h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  letter-spacing: -1px;
+}
+
+.heading__description p {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.heading__img {
+  display: inline-block;
+  width: 30%;
+  height: auto;
+}
+
+.recipe h2 {
+  font-size: 5rem;
+  letter-spacing: -5px;
+  margin-bottom: 0;
 }
